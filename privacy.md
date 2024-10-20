@@ -1,10 +1,10 @@
-# Privacy Policy for Tip++
+# Privacy Policy for Tip++/Find++
 
 Last Updated: 09-08-2024
 
-Hannah Jacob ("us", "we", or "our") operates the Tip++ mobile application (the "Service").
+Hannah Jacob ("us", "we", or "our") operates the Tip++ and Find++ mobile applications (the "Services").
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal information when you use our Service.
+This page informs you of our policies regarding the collection, use, and disclosure of personal information when you use our Services.
 
 ## Information Collection and Use
 
@@ -16,11 +16,11 @@ We do not collect any log data. The app operates in a manner that does not track
 
 ## Cookies
 
-We do not use cookies or similar tracking technologies to track the activity on our Service.
+We do not use cookies or similar tracking technologies to track the activity on our Services.
 
 ## Service Providers
 
-We do not employ third-party companies or individuals to facilitate our Service or provide services on our behalf.
+We do not employ third-party companies or individuals to facilitate our Services or provide services on our behalf.
 
 ## Links to Other Sites
 
